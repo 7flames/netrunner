@@ -272,6 +272,17 @@
   ["They are targeting our ad revenue algorithms. Boost the signals, we'll zero in on their next pass."]
   "Default" ["Stay out of our business unless you want to become tomorrow's headline."]
   "Shaper" ["Seems they have not read our Terms & Conditions - which still apply."]}
+  {"NBN: Reality Plus"
+ {"Anarch"
+  ["They're trying their best to tear down our fortress, but we can rebuild even faster."]
+  "Criminal"
+  ["They are looking for some profits. Feed them full with our free commemorative souvenirs."]
+  "Captain Padma Isbister: Intrepid Explorer"
+  ["Bringing out some boat? You'd better be prepared for a voyage in the desert, ma'am."]
+  "Default"
+  ["By entering this server, you agree to disable tracking protection and sensitive data restriction..."]
+  "Shaper"
+  ["Some unscheduled, eager betatesters of our augmented reality? Welcome aboard!"]}
  "NBN: The World is Yours*"
  {"Anarch" ["Full of sound and fury, signifying nothing."]
   "Criminal" ["The robbed that smiles steals something from the thief."]
